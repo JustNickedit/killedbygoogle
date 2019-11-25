@@ -1,5 +1,12 @@
 [
   {
+    "dateClose": "2020-03-01",
+    "dateOpen": "2019-11-19",
+    "description": "Google Stadia is a very bad CloudGaming service that is going to die in the near future.,
+    "name": "Google Stadia",
+    "type": "service"
+  },
+  {
     "dateClose": "2020-12-31",
     "dateOpen": "2010-04-16",
     "description": "Google Cloud Print allowed users to 'print from anywhere;' to print from web, desktop, or mobile to any Google Cloud Print-connected printer.",
